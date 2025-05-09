@@ -1,7 +1,7 @@
 import pandas as pd
 # CENSURADO: import pyodbc para conexão com SQL Server (informações de credenciais)
-
 # CENSURADO: Configuração de conexão com banco (hosts, usuários, senhas)
+# Grande parte do código foi censurada para manter a integridade dos arquivos e segurança do banco
 
 
 def load_data(file_path):
