@@ -10,9 +10,6 @@ Objetivos do Projeto:
 2) Confiabilidade: Garantir consistência entre múltiplas tabelas (ex.: CategoriaTabela, ItemTabela, SaborTabela).
 
 
-
-
-
 Tecnologias e Bibliotecas:
 1) Python 3.8+
 2) pandas
@@ -21,6 +18,8 @@ Para leitura, tratamento e filtragem dos dados extraídos das planilhas Excel.
 Engine utilizada pelo pandas para abrir arquivos .xlsx.
 4) tkinter (opcional)
 Framework nativo do Python para construir a GUI (checkboxes, Listbox, botões) utilizado principalmente para se tornar um sistema fácil de ser usado por outras pessoas que poderiam ter dificuldade com o visual studio e Python "puro".
+
+OBS: Não coloquei alguns materiais (como por exemplo, as planilhas excel utilizadas) por motivos de sensibilidade dos dados
 
 Fluxo de execução:
 1) Input: Parâmetros de status e localização.
