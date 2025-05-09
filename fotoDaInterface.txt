@@ -1,0 +1,9 @@
+#Segue link para ver um print da interface, lembrando que esses "blcoos" coloridos no print funcionam como censura do que podem ser dados sensíveis
+
+print hospedado pelo lightShot: 
+https://prnt.sc/kl51IK0JFIcv , nesse print, selecionei algumas categorias no filtro e alguns produtos, fiz aquela caixa na direita apenas para ajudar o usuário 
+a ter certeza que selecionou os itens corretos, além disso, embaixo temos o lugar aonde é gerado o script em SQL, além disso tudo, podemos ver na parte de cima, um campo
+onde o usuário pode digitar qual status do pedido (0 para desativar e 1 para ativar) e o ID da loja, para garantir de que estamos atuando na loja correta
+
+Link para publicação no linkdin com mais detalhes e também com a imgem: 
+https://www.linkedin.com/posts/cauanbaptista_python-automaaexaeto-sql-activity-7324147680622886913-w1mO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqDxHoBmGKlgOt4uW_JIrvKuNCBKc6ejjE
